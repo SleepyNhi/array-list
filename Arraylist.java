@@ -1,5 +1,5 @@
 /*
- * Nhi Tuong CSC3410 MW 
+ * Nhi Tuong 
  * 
  * Purpose:			To be able to create and manipulate an arraylist data structure that accepts any object.
  * 
