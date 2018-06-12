@@ -1,5 +1,5 @@
 /*
- * Nhi Tuong CSC3410 MW 
+ * Nhi Tuong 
  * 
  * 
  */
